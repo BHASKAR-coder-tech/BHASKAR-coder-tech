@@ -1,21 +1,35 @@
-<h1 align="center">Hi 👋, I'm BHASKAR SAHU 😎</h1>
+<h1 align="center">Hi 👋, I'm BHASKAR SAHU </h1>
 <h3 align="center">Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using analytics, visualization, and storytelling.</h3>
 
 <img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar-coder-tech&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar-coder-tech" /> </p>
 
-- 🌱 I’m currently learning **Advanced Data Analytics, Machine Learning & Cloud-based Data Solutions**
+### 👨‍💻 About Me
 
-- 📊 Currently Working On: **Data Visualization Dashboards & Predictive Analytics Projects**
-
-- 💬 Ask me about **Python (Pandas, NumPy), SQL, Power BI, Excel, EDA, ETL**
-
-- ☁️ Also familiar with **AWS Cloud & API Integrations**
-
+- 🎓 B.Tech CSE Student  
+- 📊 Passionate about Data Analytics & Business Insights  
+- ☁️ AWS Certified Cloud Practitioner  
+- 📈 Skilled in EDA, Dashboarding & ETL  
+- 🏏 Cricket Analytics Enthusiast
 - 📫 How to reach me **mrc78640@gmail.com**
 
-- ⚡ Fun fact **🏏 Cricket analytics lover | Inspired by MS Dhoni’s calm decision making – Data + Strategy = Winning Game**
+### 🧠 Core Skills
+
+✔ Exploratory Data Analysis (EDA)  
+✔ Data Cleaning & Transformation  
+✔ Dashboard Development  
+✔ Statistical Analysis  
+✔ Business Insight Generation  
+✔ ETL Processes  
+
+
+### 🚀 Featured Projects
+
+📊 Student Performance Analysis & Prediction  
+📈 Hotel Hospitality Revenue Dashboard  
+📦 SQL Business Case Studies  
+📊 Real World Dataset Analytics
 
 
 <h3 align="left">Connect with me:</h3>
@@ -74,11 +88,19 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar-coder-tech&show_icons=true&locale=en&layout=compact" alt="bhaskar-coder-tech" /></p>
+<h3 align="center">📊 GitHub Analytics</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar-coder-tech&show_icons=true&locale=en" alt="bhaskar-coder-tech" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskar-coder-tech&show_icons=true&theme=navy-gear" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-coder-tech&" alt="bhaskar-coder-tech" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar-coder-tech&theme=navy-gear" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar-coder-tech&layout=compact&theme=navy-gear" />
+</p>
 
 
 
